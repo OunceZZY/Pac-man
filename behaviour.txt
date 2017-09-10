@@ -1,0 +1,1 @@
+This controller simply moves in the direction of the nearest regular pill.
