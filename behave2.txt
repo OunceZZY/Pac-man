@@ -1,0 +1,28 @@
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 2680.0
+Game: 5 Score: 25930.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 41550.0
+Game: 9 Score: 13820.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 11240.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 35710.0
+Game: 15 Score: 4460.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 1980.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 10267
+

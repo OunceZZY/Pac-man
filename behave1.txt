@@ -1,0 +1,201 @@
+Script started on Tue 19 Sep 2017 03:37:46 PM ADT
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ ./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 4220.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 1070.0
+Game: 5 Score: 25930.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 1600.0
+Game: 9 Score: 15330.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 14110.0
+Game: 13 Score: 21800.0
+Game: 14 Score: 1590.0
+Game: 15 Score: 26140.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 2200.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 8068
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ emacs [K[K[K[K[K[K./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 2680.0
+Game: 5 Score: 9320.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 1600.0
+Game: 9 Score: 13820.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 9260.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 35710.0
+Game: 15 Score: 4460.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 18520.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 8167
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ ./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 2680.0
+Game: 5 Score: 3810.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 1600.0
+Game: 9 Score: 13820.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 10800.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 35710.0
+Game: 15 Score: 2280.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 3840.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 7126
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ ./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 2680.0
+Game: 5 Score: 25930.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 1600.0
+Game: 9 Score: 13280.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 5560.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 35710.0
+Game: 15 Score: 26140.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 11960.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 9542
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ ./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 9880.0
+Game: 5 Score: 25930.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 3060.0
+Game: 9 Score: 13820.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 10800.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 1870.0
+Game: 15 Score: 2400.0
+Game: 16 Score: 1360.0
+Game: 17 Score: 18520.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 7629
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ ./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 2680.0
+Game: 5 Score: 11530.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 13660.0
+Game: 8 Score: 1600.0
+Game: 9 Score: 16900.0
+Game: 10 Score: 3710.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 10800.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 35710.0
+Game: 15 Score: 26140.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 18520.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 10105
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ ./run-unix.sh
+Seed: 7100
+=== OSCPacMan Parameters ===
+server port: 7100
+agent port: 7101
+numGames: 20
+
+Game: 1 Score: 16360.0
+Game: 2 Score: 1290.0
+Game: 3 Score: 3340.0
+Game: 4 Score: 1060.0
+Game: 5 Score: 5640.0
+Game: 6 Score: 1040.0
+Game: 7 Score: 3410.0
+Game: 8 Score: 1600.0
+Game: 9 Score: 15330.0
+Game: 10 Score: 11420.0
+Game: 11 Score: 11760.0
+Game: 12 Score: 10800.0
+Game: 13 Score: 4240.0
+Game: 14 Score: 35710.0
+Game: 15 Score: 26140.0
+Game: 16 Score: 3040.0
+Game: 17 Score: 1660.0
+Game: 18 Score: 8610.0
+Game: 19 Score: 2200.0
+Game: 20 Score: 8980.0
+Average: 8681
+]0;parallels@parallels-vm: ~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacman-second-approach/https:/github.com/OunceZZY/Pac-man.git[01;32mparallels@parallels-vm[00m:[01;34m~/Desktop/Parallels Shared Folders/Home/Desktop/A1-mspacmaan-second-approach/https:/github.com/OunceZZY/Pac-man.git[00m$ exit
+exit
+
+Script done on Tue 19 Sep 2017 03:55:59 PM ADT

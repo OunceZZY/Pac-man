@@ -8,7 +8,7 @@ java -jar MsPacManSimulator.jar randomSeed:$port usePoints:false pacmanMaxLevel:
 sleep 3
 
 # run controller in 1 game with vizualization
-java -classpath ./:./controllers.osc.jar B00XXXXXXPacMan -p $port -g 1 -v 40
+#java -classpath ./:./controllers.osc.jar B00716809PacMan -p $port -g 1 -v 0
 
 #this command will be used to evaluate you controller
-#java -classpath ./:./controllers.osc.jar B00XXXXXXPacMan -p $port -g 20
+java -classpath ./:./controllers.osc.jar B00716809PacMan -p $port -g 20

@@ -1,1 +1,37 @@
-This controller simply moves in the direction of the nearest regular pill.
+/*
+ * Student Name:	Zhiyuan Zhang (Owen)
+ * Student ID: 		B00716809
+ * CS ID:		zhiyuanz
+ * Date:                Sept.21st
+ * Assignment 1
+ */
+
+----------
+Expected average by running 20 games * 8 times (recorded in behave1.txt)
+8068
+8167
+7126
+9542
+7629
+10105
+8681
+
+Highest: 35710
+
+
+Unrecorded (behave2): average 10267, highest: 41550
+----------
+
+The controller first choose a direction upon two conditions
+1) The closest regular pill
+2) The closest edible ghost
+If no edible ghost is closer than 0.2(magical number) 
+  go pill
+else 
+  go eat ghosts
+
+Then, determine if there is a threat(by my definition, explained next), change to a direction contains no threat.
+
+Threat is defined: distance to junction and distance between ghost and Ms.Pacman is lower than 0.02.
+
+*Put isThreat(), which contains another loop of 4, after first determine the direction since performing better for unknown reason 
